@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GeekVanila
 - 👀 I’m interested in HTML, CSS, JS
 - 🌱 I’m currently learning React, Python, Assembly
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on @Kaspersky / @Github
+- 📫 How to reach me shadbashim2006@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Very searching at the brain
 
